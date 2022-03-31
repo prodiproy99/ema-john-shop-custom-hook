@@ -47,3 +47,7 @@
 .btn-cart:hover{
     background-color: orange;
 }
+.cart-container{
+    background-color: #FFE0B3;
+    padding: 30px;
+}
